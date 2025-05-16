@@ -109,7 +109,7 @@ python train.py
 
 ## 4. Acknowledgements
 
-Thank you to the ISIC 2017/2018 Challenge organizers and open-source community for sharing their repos. We will add later.
+Thank you to the ISIC 2017/2018 Challenge organizers and open-source community for sharing their repos.
 
 ---
 
